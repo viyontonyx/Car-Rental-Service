@@ -1,7 +1,13 @@
-In an era where urbanization and mobility are at the forefront of modern living, the demand for flexible transportation solutions has never been greater. Carzo Holic(Drive what you want, when you want) is an innovative car rental platform designed to cater to the needs of today’s dynamic consumers who seek convenience, accessibility, and choice in their transportation options.
-Recognizing the challenges associated with traditional car rental services—such as long booking processes, limited vehicle availability, and rigid rental durations Carzo Holic offers a user-friendly online interface that allows customers to rent vehicles by the hour. This flexible model empowers users to select vehicles that best suit their needs, whether for a quick city errand or a weekend getaway.
-Utilizing the latest web technologies, including HTML, CSS, JavaScript, and Bootstrap, our platform provides an engaging and responsive user experience. The diverse fleet includes various vehicle types, ensuring that there is something for every occasion and preference. In addition to vehicle selection, the site features secure payment options and real-time booking confirmations, enhancing the overall convenience of the rental process.
-At its core, Carzo Holic is not just about renting cars; it embodies a vision for sustainable urban mobility, encouraging users to embrace shared transportation solutions while reducing reliance on personal vehicles. Through this project, we aim to revolutionize the car rental industry, making it more adaptable to the ever-changing needs of consumers in urban environments.
+
+# CARZO-HOLIC (Car Rental Service)
+
+Urbanization and mobility are at the forefront of modern living, and the demand for flexible transportation solutions has never been greater. Carzo Holic(Drive what you want, when you want) is an innovative car rental platform designed to cater to the needs of today’s dynamic consumers, who seek convenience, accessibility, and choice in their transportation options.
+
+Recognizing the challenges associated with traditional car rental services—such as long booking processes, limited vehicle availability, and rigid rental durations Carzo Holic offers a user-friendly online interface that allows customers to rent vehicles by the hour. This flexible model empowers users to select cars that best suit their needs, whether for a quick city errand or a weekend getaway.
+
+Our platform utilizes the latest web technologies, including HTML, CSS, JavaScript, and Bootstrap, to provide an engaging and responsive user experience. The diverse fleet includes various vehicle types, ensuring something for every occasion and preference. In addition to vehicle selection, the site features secure payment options and real-time booking confirmations, enhancing the overall convenience of the rental process.
+
+At its core, Carzo Holic is not just about renting cars. It embodies a vision for sustainable urban mobility, encouraging users to embrace shared transportation solutions while reducing their reliance on personal vehicles. Through this project, we aim to revolutionize the car rental industry, making it more adaptable to the ever-changing needs of consumers in urban environments. 
 
 # Objectives
 Some of the objects of the Carzo Holic are as mentioned below:-
