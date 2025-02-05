@@ -16,8 +16,26 @@ Some of the objects of the Carzo Holic are as mentioned below:-
 
 • To Provide Flexible Rental Options: Enable hourly car rentals, allowing users to choose vehicles based on their specific needs for short trips, errands, or extended travel, thus enhancing user convenience and satisfaction.
 
-•  To Offer a Diverse Vehicle Fleet: Curate a wide range of vehicles, from compact cars to SUVs, ensuring that customers have various options to meet different purposes, preferences, and group sizes.
-
 • To Implement Secure Payment Solutions: Integrate reliable and secure payment gateways that protect users' financial information while facilitating smooth transactions during the booking process.
 
 • To Enable Real Time Booking Management: Develop a system that allows users to receive instant booking confirmations, manage their reservations, and make changes as needed, ensuring a hassle-free rental experience.
+
+
+# HTML, CSS, and JavaScript: The Foundation
+
+# HTML Structure
+The platform's responsive and
+accessible web design is built on a
+solid HTML foundation.
+
+# CSS Styling
+Visually appealing and consistent
+styling is achieved through the use
+of CSS, ensuring a polished user
+interface.
+
+# JavaScript Interactivity
+Dynamic features and
+functionalities are powered by
+JavaScript, enhancing the user
+experience.
