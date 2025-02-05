@@ -1,0 +1,82 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+}
+
+/* Main Container */
+.container {
+    background-color: #ffffff;
+    width: 100%;
+    max-width: 600px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    text-align: center;
+}
+
+/* Header */
+h1 {
+    font-size: 24px;
+    color: #2c3e50;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+/* Booking Details */
+.booking-details {
+    list-style-type: none;
+    margin: 20px 0;
+    padding: 0;
+    font-size: 18px;
+}
+
+.booking-details li {
+    padding: 10px 0;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.booking-details li:last-child {
+    border-bottom: none;
+}
+
+/* Labels */
+.booking-details strong {
+    color: #34495e;
+}
+
+/* Total Cost Styling */
+#totalCost {
+    font-weight: bold;
+    color: #27ae60;
+}
+
+/* Confirmation Button */
+.confirm-btn {
+    display: inline-block;
+    padding: 12px 20px;
+    background-color: #3498db;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-top: 20px;
+    transition: background-color 0.3s ease;
+}
+
+.confirm-btn:hover {
+    background-color: #2980b9;
+}

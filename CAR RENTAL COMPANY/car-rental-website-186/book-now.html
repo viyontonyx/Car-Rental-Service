@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Booking Confirmation</title>
+    <!-- Link to the CSS file -->
+    <link rel="stylesheet" href="booking-confirmation.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>Booking Confirmation</h1>
+    <p>Thank you for booking with CARZO-HOLIC! Here are your booking details:</p>
+
+    <ul class="booking-details">
+        <li><strong>Car Model:</strong> <span id="carModel"></span></li>
+        <li><strong>Booking Date:</strong> <span id="bookingDate"></span></li>
+        <li><strong>Pickup Time:</strong> <span id="pickupTime"></span></li>
+        <li><strong>Drop-off Time:</strong> <span id="dropoffTime"></span></li>
+        <li><strong>Total Cost:</strong> $<span id="totalCost"></span></li>
+    </ul>
+
+    <a href="index.html" class="confirm-btn">Back to Home</a>
+</div>
+
+<!-- JavaScript to populate booking details from URL parameters -->
+<script>
+    // Function to get URL parameters
+    function getUrlParameter(name) {
+        const urlParams = new URLSearchParams(window.location.search);
+        return urlParams.get(name);
+    }
+
+    // Populating the booking details using URL parameters
+    document.addEventListener("DOMContentLoaded", () => {
+        document.getElementById("carModel").textContent = getUrlParameter("carModel");
+        document.getElementById("bookingDate").textContent = getUrlParameter("bookingDate");
+        document.getElementById("pickupTime").textContent = getUrlParameter("pickupTime");
+        document.getElementById("dropoffTime").textContent = getUrlParameter("dropoffTime");
+        document.getElementById("totalCost").textContent = getUrlParameter("totalCost");
+    });
+</script>
+
+</body>
+</html>
